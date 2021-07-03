@@ -17,3 +17,17 @@ h3{
 section{
     display: flex;
 }
+.Link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: antiquewhite;
+    font-weight: 600;
+}
+.smallYellow{
+    color:yellow;
+    font-size: 10px;
+    padding-left: 5px;
+    padding-top: 3px;
+}
