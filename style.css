@@ -1,0 +1,19 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: rgb(4, 15, 26);
+}
+.Yellow{
+    color:yellow;
+}
+p{
+    color :antiquewhite
+}
+h1{
+    color:antiquewhite
+}
+h3{
+    color:aquamarine
+}
+section{
+    display: flex;
+}
