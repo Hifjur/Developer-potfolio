@@ -44,7 +44,7 @@ section{
 }
 .image-bg{
     
-    padding: 5px 20px;
+    padding: 1px 20px;
 }
 .half-width{
     width: 50%;
@@ -53,7 +53,7 @@ section{
 .half-width img{
     width: 35%;
     padding-left: 27%;
-    padding-top: 50px;
+    padding-top: 5%;
 }
 .ability{
     color: rgb(247, 49, 49);
@@ -65,7 +65,7 @@ section{
     display: flex;
     margin-top: 2%;
     margin-left: 10%;
-    margin-top: 5px;
+ 
 }
 .subsection p{
     margin: 2%;
