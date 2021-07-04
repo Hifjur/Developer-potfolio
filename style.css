@@ -9,9 +9,9 @@ body{
     color:yellow;
 }
 p{
-    color :antiquewhite;
+    color :rgba(145, 255, 255, 0.966);
     padding:10px;
-    border: 2px solid rgb(250, 206, 153);
+    border: 1px solid rgb(245, 143, 19);
     border-radius: 10px;
     background-color: rgba(238, 168, 82, 0.37);
 }
@@ -51,22 +51,34 @@ section{
     
 }
 .half-width img{
-    width: 50%;
+    width: 35%;
     padding-left: 27%;
     padding-top: 50px;
 }
 .ability{
     color: rgb(247, 49, 49);
     font-size: 30px;
-    margin: 30px 5px;
+    margin: 10px 5px;
     
 }
 .subsection{
     display: flex;
     margin-top: 2%;
     margin-left: 10%;
-    margin-top: 10px;
+    margin-top: 5px;
 }
 .subsection p{
-    margin: 5%;
+    margin: 2%;
 }
+.skill{
+    display: flex;
+
+}
+ .profile-pic{
+     height: 100px;
+     width: 100px;
+ }
+ .customer{
+     text-align: center;
+     border-bottom: 5px solid wheat;
+ }
