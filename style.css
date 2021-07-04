@@ -1,12 +1,19 @@
 body{
     font-family: 'Poppins', sans-serif;
-    background-color: rgb(4, 15, 26);
+    margin: 0px;
+    background-image: url(images/breach-bg-neo.jpg);
+    
+    
 }
 .Yellow{
     color:yellow;
 }
 p{
-    color :antiquewhite
+    color :antiquewhite;
+    padding:10px;
+    border: 2px solid rgb(250, 206, 153);
+    border-radius: 10px;
+    background-color: rgba(238, 168, 82, 0.37);
 }
 h1{
     color:antiquewhite
@@ -16,6 +23,8 @@ h3{
 }
 section{
     display: flex;
+    margin-top: 2%;
+    margin-left: 10%;
 }
 .Link-button{
     text-decoration: none;
@@ -30,4 +39,34 @@ section{
     font-size: 10px;
     padding-left: 5px;
     padding-top: 3px;
+    border: none;
+    background-color: rgba(245, 222, 179, 0);
+}
+.image-bg{
+    
+    padding: 5px 20px;
+}
+.half-width{
+    width: 50%;
+    
+}
+.half-width img{
+    width: 50%;
+    padding-left: 27%;
+    padding-top: 50px;
+}
+.ability{
+    color: rgb(247, 49, 49);
+    font-size: 30px;
+    margin: 30px 5px;
+    
+}
+.subsection{
+    display: flex;
+    margin-top: 2%;
+    margin-left: 10%;
+    margin-top: 10px;
+}
+.subsection p{
+    margin: 5%;
 }
